@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var tvRes: TextView
 
     val apiUrl = "https://api.openweathermap.org/data/2.5/weather?q="
-    val apiKey = "a73271f4624e70c8da6a8ffaa11a0da2"
+    val apiKey = "enter_your_apikey_here" //Don't forget to enter API Key
 
     var df = DecimalFormat("#.##")
 
