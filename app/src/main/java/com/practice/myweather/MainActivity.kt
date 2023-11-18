@@ -78,11 +78,6 @@ class MainActivity : AppCompatActivity() {
                             e.printStackTrace()
                         }
 
-
-
-
-
-
                     },
                     { Toast.makeText(applicationContext, "Something Wrong", Toast.LENGTH_LONG).show() })
 
